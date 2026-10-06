@@ -7,7 +7,7 @@
     <key>ProgramArguments</key>
     <array>
         <string>/usr/bin/python3</string>
-        <string>/Users/grace/scripts/auto_reply.py</string>
+        <string>/Users/grace/dev/scripts/autoreply/auto_reply.py</string>
     </array>
     <key>StartInterval</key>
     <integer>1800</integer>
